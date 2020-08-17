@@ -18,9 +18,9 @@ export default class ChainStatus extends React.Component {
             votingPower: 0,
             numValidators: 0,
             totalNumValidators: 0,
-            avgBlockTimeType: "",
+            avgBlockTimeType: "d",
             avgVotingPowerType: "",
-            blockTimeText: <T>chainStatus.all</T>,
+            blockTimeText: "1d",
             votingPowerText: <T>chainStatus.now</T>
         }
     }
