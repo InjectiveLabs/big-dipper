@@ -24,7 +24,7 @@ common:
     retry: 'Retry'
     rewards: 'Rewards'
 navbar:
-    siteName: 'BIG DIPPER'
+    siteName: 'INJECTIVE'
     version: '-'
     validators: 'Validators'
     blocks: 'Blocks'
